@@ -1,0 +1,16 @@
+﻿  main.c
+C:\Users\yingz\Desktop\程序调试\C小程序\gitHubFile\projectDes\main.c(58,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yingz\Desktop\程序调试\C小程序\gitHubFile\projectDes\main.c(70,49): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\yingz\Desktop\程序调试\C小程序\gitHubFile\projectDes\main.c(70,49): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+C:\Users\yingz\Desktop\程序调试\C小程序\gitHubFile\projectDes\main.c(75,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yingz\Desktop\程序调试\C小程序\gitHubFile\projectDes\main.c(90,41): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\yingz\Desktop\程序调试\C小程序\gitHubFile\projectDes\main.c(90,41): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+C:\Users\yingz\Desktop\程序调试\C小程序\gitHubFile\projectDes\main.c(95,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yingz\Desktop\程序调试\C小程序\gitHubFile\projectDes\main.c(194,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yingz\Desktop\程序调试\C小程序\gitHubFile\projectDes\main.c(206,49): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\yingz\Desktop\程序调试\C小程序\gitHubFile\projectDes\main.c(206,49): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+C:\Users\yingz\Desktop\程序调试\C小程序\gitHubFile\projectDes\main.c(211,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yingz\Desktop\程序调试\C小程序\gitHubFile\projectDes\main.c(226,41): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\yingz\Desktop\程序调试\C小程序\gitHubFile\projectDes\main.c(226,41): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+C:\Users\yingz\Desktop\程序调试\C小程序\gitHubFile\projectDes\main.c(231,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  projectDes.vcxproj -> C:\Users\yingz\Desktop\程序调试\C小程序\gitHubFile\projectDes\x64\Debug\projectDes.exe
