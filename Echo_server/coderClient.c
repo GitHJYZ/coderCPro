@@ -1,4 +1,4 @@
-//TCP 通讯服务端实现
+//TCP 通讯客户端实现
 
 #include <stdio.h>
 #include <arpa/inet.h>
